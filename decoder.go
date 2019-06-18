@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	attrPrefix    = "-"
+	attrPrefix    = "attr-"
 	contentPrefix = "#"
 )
 
